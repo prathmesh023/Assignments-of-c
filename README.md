@@ -1,4 +1,8 @@
 # Assignments-of-c
 PDF Assignments extras
 
-Problems on Numbers
+**September 2025 Assignments**
+
+Problems on Numbers _(33 codes differents problems on numbers,charaters etc.)_
+
+Problems on Patterns
