@@ -6,3 +6,7 @@ PDF Assignments extras
 Problems on Numbers _(33 codes differents problems on numbers,charaters etc.)_
 
 Problems on Patterns
+
+Problems on Strings
+
+Problems On Structure and Union
